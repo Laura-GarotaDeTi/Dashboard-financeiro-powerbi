@@ -13,3 +13,5 @@ Durante o desenvolvimento, passamos por algumas etapas importantes:
 🔹 Tratamento e limpeza dos dados no Power Query 
 
 🔹 Criação do layout no PowerPoint e importação para o Power BI como template. 
+
+![Dashboard](imagens/dashboard_financas.png)
