@@ -14,4 +14,4 @@ Durante o desenvolvimento, passamos por algumas etapas importantes:
 
 🔹 Criação do layout no PowerPoint e importação para o Power BI como template. 
 
-![Dashboard](imagens/dashboard_financas.png)
+![Dashboard](imagens/dashboard_financas)
